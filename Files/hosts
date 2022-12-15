@@ -1,0 +1,61 @@
+127.0.0.1	localhost
+127.0.1.1	hammad-laptop
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+127.0.0.1 katmoviehd.rs
+127.0.0.1 www.katmoviehd.rs
+
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+
+127.0.0.1 croxyproxy.net
+127.0.0.1 www.croxyproxy.net
+
+127.0.0.1 weboproxy.com
+127.0.0.1 www.weboproxy.com
+
+127.0.0.1 talkwithstranger.com
+127.0.0.1 www.talkwithstranger.com
+
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+
+127.0.0.1 tiktok.com
+127.0.0.1 www.tiktok.com
+
+127.0.0.1 10fastfingers.com
+127.0.0.1 www.10fastfingers.com
+
+127.0.0.1 typingtest.com
+127.0.0.1 www.typingtest.com
+
+127.0.0.1 torproject.org
+127.0.0.1 www.torproject.org
+
+127.0.0.1 yts.mx
+127.0.0.1 www.yts.mx
+
+127.0.0.1 imdb.com
+127.0.0.1 www.imdb.com
+
+127.0.0.1 www.rottentomatoes.com
+127.0.0.1 rottentomatoes.com
+
+127.0.0.1 katmoviehd.fr
+127.0.0.1 www.katmoviehd.fr
+
+127.0.0.1 hammadbawara.com
+127.0.0.1 www.hammadbawara.com
+
+127.0.0.1 bolly4u.band
+
+192.168.1.1 wifi.com
